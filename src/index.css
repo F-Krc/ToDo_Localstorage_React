@@ -78,7 +78,7 @@ body {
   align-items: center;
   gap: 1rem;
 }
-.content span {
+.content label {
   flex: 1;
   order: 1;
 }
